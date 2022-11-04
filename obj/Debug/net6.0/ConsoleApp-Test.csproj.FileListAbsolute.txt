@@ -1,0 +1,15 @@
+C:\Users\D_Power\source\repos\ConsoleApp-Test\ConsoleApp-Test\bin\Debug\net6.0\ConsoleApp-Test.exe
+C:\Users\D_Power\source\repos\ConsoleApp-Test\ConsoleApp-Test\bin\Debug\net6.0\ConsoleApp-Test.deps.json
+C:\Users\D_Power\source\repos\ConsoleApp-Test\ConsoleApp-Test\bin\Debug\net6.0\ConsoleApp-Test.runtimeconfig.json
+C:\Users\D_Power\source\repos\ConsoleApp-Test\ConsoleApp-Test\bin\Debug\net6.0\ConsoleApp-Test.dll
+C:\Users\D_Power\source\repos\ConsoleApp-Test\ConsoleApp-Test\bin\Debug\net6.0\ConsoleApp-Test.pdb
+C:\Users\D_Power\source\repos\ConsoleApp-Test\ConsoleApp-Test\obj\Debug\net6.0\ConsoleApp-Test.csproj.AssemblyReference.cache
+C:\Users\D_Power\source\repos\ConsoleApp-Test\ConsoleApp-Test\obj\Debug\net6.0\ConsoleApp-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D_Power\source\repos\ConsoleApp-Test\ConsoleApp-Test\obj\Debug\net6.0\ConsoleApp-Test.AssemblyInfoInputs.cache
+C:\Users\D_Power\source\repos\ConsoleApp-Test\ConsoleApp-Test\obj\Debug\net6.0\ConsoleApp-Test.AssemblyInfo.cs
+C:\Users\D_Power\source\repos\ConsoleApp-Test\ConsoleApp-Test\obj\Debug\net6.0\ConsoleApp-Test.csproj.CoreCompileInputs.cache
+C:\Users\D_Power\source\repos\ConsoleApp-Test\ConsoleApp-Test\obj\Debug\net6.0\ConsoleApp-Test.dll
+C:\Users\D_Power\source\repos\ConsoleApp-Test\ConsoleApp-Test\obj\Debug\net6.0\refint\ConsoleApp-Test.dll
+C:\Users\D_Power\source\repos\ConsoleApp-Test\ConsoleApp-Test\obj\Debug\net6.0\ConsoleApp-Test.pdb
+C:\Users\D_Power\source\repos\ConsoleApp-Test\ConsoleApp-Test\obj\Debug\net6.0\ConsoleApp-Test.genruntimeconfig.cache
+C:\Users\D_Power\source\repos\ConsoleApp-Test\ConsoleApp-Test\obj\Debug\net6.0\ref\ConsoleApp-Test.dll
